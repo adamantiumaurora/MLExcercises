@@ -1,6 +1,4 @@
 import numpy as np
-import pandas as pd
-
 
 '''
 Initialization function for starting values of model parameters.
