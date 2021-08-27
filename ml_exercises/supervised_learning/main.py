@@ -1,4 +1,3 @@
-import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 from model_functions import init, predict
